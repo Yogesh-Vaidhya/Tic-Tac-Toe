@@ -1,0 +1,24 @@
+#choose-opponent{
+    display: block;
+}
+
+#choose-symbol{
+    display: none;
+}
+
+#choose-starting-player-computer{
+    display: none;
+}
+
+#choose-starting-player{
+    display: none;
+}
+
+#choose-level{
+    display: none;
+}
+
+#start-button{
+    display: none;
+}
+
